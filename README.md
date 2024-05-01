@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @peresyuri
+- 👀 I’m interested in marketing and development
+- 🌱 I'm currently learning JavaScript
+- 💞️ I try to collaborate in whatever way I can, after all I'm learning now
